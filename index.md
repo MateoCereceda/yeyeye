@@ -7,4 +7,4 @@ Prueba de próximo blog 🥵
 Vale te amo tanto miamor 
 
 ```
-! [https://i.pinimg.com/564x/e8/6d/a7/e86da7bdb66f1f4fe57d064a9b80a65a.jpg](scr)
+![https://i.pinimg.com/originals/a9/22/9d/a9229da0550c961003cf6a0f79afb735.jpg](scr)
